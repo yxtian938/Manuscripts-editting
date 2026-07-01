@@ -6,7 +6,7 @@ This repository contains reusable Markdown-based AI editing skills.
 
 ### Natural Style Editor
 
-Location: `natural-style-editor/SKILL.md`
+Location: `de-AI V1 skill.md`
 
 Use this skill to revise prose so that it sounds less mechanical, less inflated, and more rhythmically varied while preserving the author's meaning.
 
