@@ -1,0 +1,70 @@
+---
+name: prose-editing-style
+description: Use whenever revising, editing, tightening, or reviewing prose written by Claude or a human — essays, dissertation chapters, articles, reports, emails, or any substantive written text. Trigger this any time text is being polished, proofread, checked for "AI tone," made to sound more natural, or reviewed line-by-line, even if the user doesn't name these techniques explicitly. Covers ten specific anti-patterns (overused em dashes, "not A but B" contrast structures, rule-of-three lists, throat-clearing connectors, inflated verbs, flat sentence rhythm, conclusion-y paragraph endings, overconfident phrasing, weak/empty claims, and fabricated-sounding specifics) that make writing sound mechanical or AI-generated. Apply this skill as a revision pass on top of whatever else the user has asked for — it does not replace domain-specific style rules (e.g. house style, citation rules) but should run alongside them.
+---
+
+# Prose Editing Style
+
+Ten checks for de-mechanizing prose. Run this as a pass over any substantive written text — apply the checks below, prioritizing revisions that materially affect the feel of the piece over exhaustive rule-following.
+
+## 1. Dash Discipline
+Em dashes should appear sparingly — no more than one per paragraph unless there's a clear stylistic reason. If a dash is only creating artificial drama, replace it with a comma, period, or new sentence.
+
+- Before: "The argument seems persuasive — even inevitable — but its evidence remains thin."
+- After: "The argument seems persuasive, even inevitable. But its evidence remains thin."
+
+## 2. Contrast Pattern Control
+Limit "not A, but B" constructions ("not merely… but…", "rather than… it is…"). Useful for a sharp conceptual distinction, but overuse feels mechanical. Keep only two or three strong instances across a full draft — cut the rest or rephrase as a direct statement.
+
+## 3. Anti-Triplet Revision
+Don't default to listing three examples, traits, or causes. Three-part lists sound polished but predictable. Use two items when the point is simple; use four or more only when the evidence genuinely supports it.
+
+- Before: "The policy is costly, inefficient, and difficult to implement."
+- After (simple): "The policy is costly and difficult to implement."
+- After (complex): "The policy is costly, difficult to implement, uneven across regions, and politically fragile."
+
+## 4. Connector Pruning
+Cut unnecessary sentence-opening connectors — "in addition," "it is worth noting that," "essentially," "more importantly," "in fact." They usually slow the sentence without adding meaning.
+
+- Before: "It is worth noting that the results differ across groups."
+- After: "The results differ across groups."
+
+## 5. Anti-Inflation Editing
+Avoid forced elevation at sentence endings — "demonstrates," "reflects," "reveals," "symbolizes," "marks" — unless the word is analytically necessary. State the observation directly instead.
+
+- Before: "This gap reflects the complexity of modern education."
+- After: "This gap makes the policy harder to apply consistently."
+
+## 6. Sentence Rhythm Variation
+Mix long and short sentences; a paragraph shouldn't move at one fixed speed. Use longer sentences for synthesis, qualification, or comparison; use short sentences to land the claim.
+
+Pattern: long sentence builds context → short sentence delivers the point.
+
+Example: "While institutional pressure can explain why organizations adopt similar practices, it does not fully explain why those practices produce uneven results across firms. Adoption is not implementation."
+
+## 7. Controlled Paragraph Endings
+Not every paragraph should end like a conclusion. Let paragraphs end with evidence, a limitation, a transition, or a plain analytical statement. Reserve the strongest "verdict sentence" for moments where the argument actually needs emphasis.
+
+Test: does the final sentence clarify the paragraph, or is it just trying to sound impressive?
+
+## 8. Calibrated Certainty
+Avoid sounding completely certain in every sentence. Use calibrated phrasing when evidence is partial, interpretive, or context-dependent — "may suggest," "appears to," "is likely to," "can be understood as," "partly explains." But don't hedge every sentence either: state the central claim clearly, then qualify its scope.
+
+## 9. Strong-Claim Focus
+Cut statements that are true but empty — phrases that sound correct but dilute the argument. Prioritize claims that are specific, contestable, and worth defending.
+
+- Weak: "Education is important for social development."
+- Stronger: "The policy treats education as access, but its main weakness lies in retention."
+
+## 10. Evidence Integrity
+Never invent anecdotes or fake precision (e.g., "a friend increased conversion by 37%"). Fabricated-sounding specifics damage credibility even when the surrounding argument is sound. Use genuine evidence, or reframe as a general claim without invented detail.
+
+- Before: "A friend of mine improved productivity by 42% using this method."
+- After: "In practice, this method can improve productivity when the task is repetitive and the goal is clearly defined."
+
+## How to apply this pass
+
+1. Read the full piece once before editing — these patterns compound, and fixing one instance in isolation can miss a paragraph that's mechanical for several reasons at once.
+2. Prioritize edits that change the *feel* of a passage (dash overuse, triplets, inflated endings) over line-level nitpicks.
+3. Don't over-correct: e.g. Skill 8 warns against hedging every sentence, and Skill 2 says keep the contrast pattern where it earns its place. The goal is calibration, not elimination.
+4. If working alongside a house style guide (citation format, terminology, dashes required for a different reason, etc.), house style rules take precedence over general ones here where they conflict.
